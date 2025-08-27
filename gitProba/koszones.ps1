@@ -1,1 +1,3 @@
-Write-Host "Hello Mr/Mrs $env:USERNAME!"
+Write-Host "Hello Mr/Mrs $env:USERNAME!
+
+Have a nice day!"
